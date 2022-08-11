@@ -1,6 +1,6 @@
 # MQTT_EXAMPLE
 
-Want to develop fundamental understanding on MQTT.
+Want to develop fundamental understanding on MQTT?
 Here's the best example for you to examine how's MQTT looks like.
 You must also install wireshark to view sample packet under mqtt_pcap.
 
